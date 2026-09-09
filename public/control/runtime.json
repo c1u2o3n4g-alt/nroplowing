@@ -3,13 +3,13 @@
     "modId": "22fe9e7b-6e1b-4f41-8dc5-7f994d6352db",
     "companyName": "NROPLOWING",
     "displayName": "NRO PLOWING",
-    "status": "maintenance",
-    "message": "WebGL release đầu tiên đang được chuẩn bị.",
+    "status": "active",
+    "message": "",
     "expiresAt": "2026-10-08T01:49:56.4945113+00:00",
     "graceUntil": "2026-10-09T01:49:56.4945113+00:00",
-    "activeRelease": "",
+    "activeRelease": "2026.09.09.1445",
     "minimumClientVersion": "",
     "forceReload": false,
-    "revision": 1788965199117,
-    "updatedAt": "2026-09-09T14:46:39.1176375+00:00"
+    "revision": 1788965401285,
+    "updatedAt": "2026-09-09T14:50:01.2854549+00:00"
 }
